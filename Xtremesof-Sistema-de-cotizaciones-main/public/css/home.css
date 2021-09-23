@@ -1,0 +1,33 @@
+.logo {
+    width: 250px;
+    height: 80px;
+    border-radius: 5%;
+    padding: 5pt;
+}
+
+.iconosmini {
+    width: 35px;
+    height: 35px;
+    border-radius: 5%;
+}
+
+.carta {
+    justify-content: flex-end;
+    padding-top: 10pt;
+}
+
+.campana {
+    justify-content: flex-end;
+    padding-top: 10pt;
+}
+
+.userlog {
+    justify-content: flex-end;
+    padding-top: 10pt;
+}
+
+.paso {
+    text-align: center;
+    color: slategray;
+    padding: 0%;
+}
