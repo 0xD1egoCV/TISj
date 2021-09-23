@@ -13,7 +13,7 @@
 <body>
     @include('/Home/head')
     <div>
-        'Soy una tabla'
+        'Soy una tabla, test1'
     </div>
     @include('/Home/foot')
 </body>
